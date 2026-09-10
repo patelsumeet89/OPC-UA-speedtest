@@ -54,6 +54,7 @@ py .\opcua_speedtest.py --endpoint opc.tcp://localhost:4840 `
   --requests 1000 --workers 4 --concurrency 4
 ```
 
+```powershell
 py .\opcua_speedtest.py `
   --endpoint opc.tcp://<host>:4840 `
   --username "<username>" `
