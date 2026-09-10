@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+# Generated test output
+results-*.csv
+
+# Locally generated OPC UA client credentials
+certs/*
+!certs/.gitkeep
